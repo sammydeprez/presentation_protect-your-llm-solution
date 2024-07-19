@@ -1,0 +1,3 @@
+openai==1.36.0
+nemoguardrails==0.9.0
+instructor==1.3.5

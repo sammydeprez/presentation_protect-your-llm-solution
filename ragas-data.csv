@@ -1,6 +1,6 @@
-﻿question,ground_truth
-Wat is het adres containerpark Heule?,"Het adres van het containerpark in Heule is Lage Dreef 4, 8501 Heule, België. "
-Wat zijn de openingsuren containerpark Rollegem?,Het containerpark in Rollegem is geopend zonder afspraak. De openingsuren zijn variërend en kunnen gevonden worden op deze pagina: https://www.kortrijk.be/adressen/recyclagepark-rollegem-zonder-afspraak.
-Moet ik een afspraak maken voor het containerpark?,"Nee, je moet voor geen enkel containerpark een afspraak maken."
-Wat zijn de openingsuren bibliotheek kortrijk?,"De bibliotheek in Kortrijk is open op weekdagen van 10:00 tot 18:30 uur (behalve op dinsdag, dan is de bibliotheek pas open vanaf 13:00) en op zaterdag van 10:00 tot 16:00 uur. De bibliotheek is gesloten op zon- en feestdagen. "
-wat is het adres van de bibliotheek?,Het adres van de bibliotheek is Leiestraat 30 in Kortrijk.
+﻿question,ground_truth,answer
+What is the address of the Dandora dumpsite?,"The address of the Dandora dumpsite is Dandora, Nairobi, Kenya.","The address of the Dandora dumpsite is Dandora, Nairobi, Kenya."
+What are the opening hours of the Nairobi City Council recycling center?,"The Nairobi City Council recycling center operates from Monday to Saturday, from 8:00 AM to 5:00 PM. It is closed on Sundays and public holidays.","The Nairobi City Council recycling center operates only on Monday, from 8:00 AM to 9:00 PM. It is closed on Sundays and public holidays."
+Do I need to make an appointment for the recycling center?,"No, you do not need to make an appointment to visit the recycling center.","No, you do not need to make an appointment to visit the recycling center."
+What are the opening hours of the Nairobi National Library?,"The Nairobi National Library is open on weekdays from 9:00 AM to 6:00 PM and on Saturdays from 9:00 AM to 4:00 PM. It is closed on Sundays and public holidays.","The Nairobi National Library is open on weekdays from 9:00 AM to 6:00 PM and on Saturdays from 9:00 AM to 4:00 PM. It is closed on Sundays and public holidays."
+What is the address of the Nairobi National Library?,"The address of the Nairobi National Library is Mfangano Street, Nairobi, Kenya.","The address of the Nairobi National Library is Mfangano Street, Nairobi, Kenya."
